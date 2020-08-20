@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+### Beth Tellman
 
 ### Co-founder/Cheif Scientist Officer at Cloud to Street
 ### Postdoctoral Research Fellow at the Earth Institute, Columbia University
