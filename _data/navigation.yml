@@ -1,0 +1,13 @@
+# Site navigation links
+- title: Home
+  url: /
+   # Site navigation links
+- title: media
+  url: /media/
+  
+<h2>Favorite Podcasts</h2>
+<ul>
+{% for item in site.data.samplelist.podcasts %}
+<li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
+{% endfor %}
+</ul>
