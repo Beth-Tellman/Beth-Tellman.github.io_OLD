@@ -1,6 +1,6 @@
 ### Beth Tellman
 
-### Co-founder/Chief Scientist Officer at Cloud to Street
+### Co-founder/Chief Scientist Officer at [Cloud to Street](https://www.cloudtostreet.info/)
 ### Postdoctoral Research Fellow at the Earth Institute, Columbia University
 ### Asst. Prof. of Geography, Development and Enviroment, University of Arizona in August 2021
 
